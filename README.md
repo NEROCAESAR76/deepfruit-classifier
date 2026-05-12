@@ -4,7 +4,13 @@
 Project klasifikasi gambar buah menggunakan CNN TensorFlow.
 
 ## Dataset
-Fruits-360 Dataset
+
+
+This project uses the Fruits-360 dataset from Kaggle:
+
+[Fruits-360 Dataset on Kaggle](https://www.kaggle.com/datasets/moltean/fruits)
+
+The dataset contains thousands of fruit images categorized into multiple classes with standardized image sizes suitable for deep learning and computer vision tasks.
 
 ## Kelas
 - Apple Red 1
